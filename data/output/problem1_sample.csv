@@ -1,0 +1,11 @@
+message,log_level
+"17/06/08 19:01:08 INFO storage.MemoryStore: Block broadcast_5 stored as values in memory (estimated size 384.0 B, free 317.5 KB)",INFO
+17/06/08 19:01:09 INFO executor.CoarseGrainedExecutorBackend: Got assigned task 78,INFO
+17/06/08 19:01:10 INFO executor.Executor: Finished task 14.0 in stage 6.0 (TID 248). 2156 bytes result sent to driver,INFO
+"17/06/08 19:01:11 INFO python.PythonRunner: Times: total = 38, boot = -134, init = 172, finish = 0",INFO
+17/06/08 19:01:11 INFO storage.BlockManager: Found block rdd_11_38 locally,INFO
+17/06/08 19:01:12 INFO executor.Executor: Running task 14.0 in stage 15.0 (TID 612),INFO
+"17/06/08 19:01:12 INFO spark.CacheManager: Partition rdd_23_30 not found, computing it",INFO
+17/06/08 19:01:13 INFO executor.CoarseGrainedExecutorBackend: Got assigned task 748,INFO
+17/06/08 19:01:14 INFO storage.BlockManager: Found block rdd_2_14 locally,INFO
+17/06/08 19:01:14 INFO executor.CoarseGrainedExecutorBackend: Got assigned task 1197,INFO
