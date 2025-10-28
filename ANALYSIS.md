@@ -15,14 +15,14 @@ The analysis from problem 1 shows that there are only INFO, WARN and ERROR log e
 
 For problem 2, there are 6 unique clusters in the dataset. The barplot (fig1) shows that among the 194 applications, 181 use the 1485248649253 cluster. Cluster 1485248649253 was used throughout 2017 January to 2017 July, while the other 5 clusters saw usage only within a day. Most applications took about 15 minutes to execute, though execution times can range from less than a minute to more than 15 hours. The density plot (fig2) provides us the views showing that the execution times of the applications is approximately log-normally distributed, with most of the applications taken 15 to 18 minutes to execute, also with a noticeable fat left tail representing longer execution times.
 
-![fig1](output/problem2_bar_chart.png)
+![fig1](data/output/problem2_bar_chart.png)
 
-![fig2](output/problem2_density_plot.png)
+![fig2](data/output/problem2_density_plot.png)
 
 
 ### Screenshots of Spark Web UI showing job execution
 
-![](image/a06-8080.png)
+![spark web ui](image/a06-8080.png)
 
 ![](image/a06-8080-2.png)
 
