@@ -65,4 +65,3 @@ IAM_PROFILE_UPDATE.md
 test-iam-detection.sh
 data-prep.sh
 git-push.sh
-image/
